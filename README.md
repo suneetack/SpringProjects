@@ -1,2 +1,3 @@
 # SpringProjects
-editing from git.
+wrinting into the gi
+changes made from Gthub.
